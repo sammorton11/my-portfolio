@@ -41,18 +41,10 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.8)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=315+E+Wayne+Ave,+Edmond,+OK,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=Edmond,+OK,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-5/12 px-6">
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs">
-                ADDRESS
-              </h2>
-              <p className="mt-1">
-                315 Wayne Ave <br />
-                Edmond, OK 73034
-              </p>
-            </div>
+           
             <div className="lg:w-5/12 px-6 lg:mt-r">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
@@ -74,7 +66,7 @@ export default function Contact() {
           method="POST"
           data-netlify="true">
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Hire Me
+            Contact
           </h2>
           <p className="leading-relaxed mb-5">
           </p>
