@@ -17,16 +17,20 @@ export default function Contact() {
       .join("&");
   }
 
-  function handleSubmit(e) {
-    e.preventDefault();
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    const myForm = event.target;
+    const formData = new FormData(myForm);
+
     fetch("/", {
       method: "POST",
-      headers: { "Content-Type": "application/x-ww-form-urlencoded" },
-      body: encode({"form-name": "contact", name, email, message}),
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString(),
     })
-    .then(() => alert("Message sent!"))
-    .catch((error) => alert(error));
-  }
+        .then(() => alert("Form successfully submitted"))
+        .catch((error) => alert(error));
+  };
 
   return (
     <section id="contact" className="relative">
