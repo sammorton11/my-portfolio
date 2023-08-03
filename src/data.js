@@ -3,7 +3,7 @@ export const projects = [
     title: "YouTube MP3 Converter",
     subtitle: "React Typescript NextUI",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Convert a YoutTube URL to a downloadable mp3 file! (Learning purposes only)",
     image: "./ytmp3.png",
     link: "https://github.com/sammorton11/youtube-mp3-converter",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Web Notes",
     subtitle: "React and ASP.NET",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Take notes in the browser.",
     image: "./web-notes-react.png",
     link: "https://github.com/sammorton11/TodoAppReact",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "Space Explorer",
     subtitle: "Android Kotlin",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The NASA Space App is an Android application built using Kotlin and Jetpack Compose. It allows users to explore space related resources and information provided by NASA through various APIs.",
     image: "./space-explorer-screens.png",
     link: "https://play.google.com/store/apps/details?id=com.samm.space&hl=en&pli=1",
   },
@@ -27,26 +27,9 @@ export const projects = [
     title: "Top 100 Cryptocurrency Coins",
     subtitle: "Android Kotlin",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Browse the top 100 cryptocurrency coins and their current data.",
     image: "./top-100-project.png",
     link: "https://github.com/sammorton11/CryptoApp",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
   },
 ];
 
