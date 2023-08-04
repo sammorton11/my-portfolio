@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "React Typescript NextUI",
     description:
       "Convert a YoutTube URL to a downloadable mp3 file! (Learning purposes only)",
-    image: "./ytmp3.png",
+    image: "./youtubeapp.png",
     link: "https://github.com/sammorton11/youtube-mp3-converter",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "React and ASP.NET",
     description:
       "Take notes in the browser.",
-    image: "./web-notes-react.png",
+    image: "./webnotes.png",
     link: "https://github.com/sammorton11/TodoAppReact",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Android Kotlin",
     description:
       "Browse the top 100 cryptocurrency coins and their current data.",
-    image: "./top-100-project.png",
+    image: "./top100.png",
     link: "https://github.com/sammorton11/CryptoApp",
   },
 ];
