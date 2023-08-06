@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I love to build things.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Over the past two years, I have been proficient in native Android development, successfully building Android applications. However, my journey has taken an exciting turn as I recently discovered a newfound passion for web development. Currently, I find great enjoyment in working with Python, Typescript, React, and .Net C# for back end development. 
+            Over the past two years, I have been proficient in native Android development, successfully building Android applications. However, my journey has taken an exciting turn as I recently discovered a newfound passion for web development. Currently, I find great enjoyment in working with Javascript, Typescript, React, Python, Kotlin and C#. 
           </p>
           <p className="mb-8 leading-relaxed">
              I have gained valuable experience building projects with these web technologies and creating multiple native Android applications that connect to REST APIs or local databases. While I used to rely on JetBrains IntelliJ IDEA or Android Studio, I have now made the switch to NeoVim for web application development. Additionally, I am currently working as a QA tester while pursuing a Computer Science degree online at SNHU in the evenings.
