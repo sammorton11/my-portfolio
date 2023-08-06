@@ -31,6 +31,18 @@ export const projects = [
     image: "./top100.png",
     link: "https://github.com/sammorton11/CryptoApp",
   },
+  {
+   title: "Jetpack Notes",
+   subtitle: "Android Kotlin",
+   description: "Simple Todo list application built with Kotlin, SQLite, and Jetpack Compose",
+   link: "https://github.com/sammorton11/jetpack-notes",
+  },
+   {
+      title: "Java News",
+      subtitle: "Java Android",
+      description: "Browse a list of news articles",
+      link: "https://github.com/sammorton11/JavaNews",
+   }
 ];
 
 export const skills = [

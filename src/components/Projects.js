@@ -19,8 +19,9 @@ export default function Projects() {
             <a
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4"
-            >
+              target="_blank"
+              rel="noopener noreferrer"
+              className="sm:w-1/2 w-100 p-4">
               <div className="flex relative group">
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 transition-colors duration-300 group-hover:bg-white group-hover:text-black">
                   <h2 className="tracking-widest text-sm title-font font-medium text-green-400 mb-1">
