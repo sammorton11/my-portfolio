@@ -34,14 +34,20 @@ export const projects = [
   {
    title: "Jetpack Notes",
    subtitle: "Android Kotlin",
-   description: "Simple Todo list application built with Kotlin, SQLite, and Jetpack Compose",
+   description: "Simple Todo list application built with Kotlin, SQLite, and Jetpack Compose.",
    link: "https://github.com/sammorton11/jetpack-notes",
   },
    {
       title: "Java News",
       subtitle: "Java Android",
-      description: "Browse a list of news articles",
+      description: "Browse a list of news articles.",
       link: "https://github.com/sammorton11/JavaNews",
+   },
+   {
+      title: "Android Web Scraper",
+      subtitle: "Yahoo Finance Web Scraper",
+      description: "Scrape finance data from the Yahoo Finance website using Kotlin and Jsoup.",
+      link: "https://github.com/sammorton11/android-yahoo-finance-web-scraper",
    }
 ];
 
