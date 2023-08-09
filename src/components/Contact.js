@@ -39,11 +39,9 @@ export default function Contact() {
             frameBorder={0}
             marginHeight={0}
             marginWidth={0}
-            style={{ filter: "opacity(0.8)" }}
             src="https://www.google.com/maps/embed/v1/place?q=Edmond,+OK,+USA&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-           
             <div className="lg:w-5/12 px-6 lg:mt-r">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
@@ -54,7 +52,7 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">405-822-0214</p>
+              <p className="leading-relaxed text-xs">405-822-0214</p>
             </div>
           </div>
         </div>
