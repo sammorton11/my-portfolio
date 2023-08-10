@@ -48,6 +48,12 @@ export const projects = [
       subtitle: "Yahoo Finance Web Scraper",
       description: "Scrape finance data from the Yahoo Finance website using Kotlin and Jsoup.",
       link: "https://github.com/sammorton11/android-yahoo-finance-web-scraper",
+   },
+   {
+      title: "Unsplash Clone",
+      subtitle: "React Tailwind Javascript",
+      description: "Search for images and view the users profile",
+      link: "https://github.com/sammorton11/unsplash-clone-react/tree/main",
    }
 ];
 
