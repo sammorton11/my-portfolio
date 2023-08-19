@@ -6,7 +6,7 @@ import React from "react";
        const coffeeButton = document.getElementById('coffee-button');
 
        coffeeButton.addEventListener('mouseover', function() {
-           coffeeButton.textContent = 'Please? ...';
+           coffeeButton.textContent = 'Please';
        });
 
        coffeeButton.addEventListener('mouseout', function() {
