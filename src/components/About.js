@@ -11,16 +11,16 @@ export default function About() {
                         <br className="hidden lg:inline-block" /> I love to build things.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Over the past two years, I have been proficient in native Android development, successfully building Android applications. However, my journey has taken an exciting turn as I recently discovered a newfound passion for web development. Currently, I find great enjoyment in working with Javascript, Typescript, React, Python, Kotlin and C#.
+                        In the last two years, I've built many mobile and web applications using various technologies. I'm very passionate about software development and I've learned a lot by taking on freelance projects for local businesses in Oklahoma City. 
                     </p>
-                    <p className="mb-8 leading-relaxed">
-                        I have gained valuable experience building projects with these web technologies and creating multiple native Android applications that connect to REST APIs or local databases. While I used to rely on JetBrains IntelliJ IDEA or Android Studio, I have now made the switch to NeoVim for web application development. Additionally, I am currently working as a QA tester while pursuing a Computer Science degree online at SNHU in the evenings.
+                    <p className="mb-8 leading-relaxed"> 
+                        I work with a range of technologies such as Go, JavaScript, TypeScript, React, HTML, CSS, Python, Kotlin and Java. During the day, I work as a QA tester, and in the evenings, I'm working on an online Computer Science degree at SNHU.
                     </p>
                     <div className="flex justify-center">
                         <a
                             href="#contact"
                             className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg transform transition-transform duration-300 hover:scale-105">
-                            Work With Me
+                            Hire Me 
                         </a>
                         <a
                             href="#projects"
@@ -35,7 +35,6 @@ export default function About() {
                     </a>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-
                     <img
                         className="object-cover object-center rounded"
                         alt="person with laptop image"

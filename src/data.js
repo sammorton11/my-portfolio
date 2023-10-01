@@ -1,4 +1,11 @@
 export const projects = [
+   {
+      title: "Hackler Welding LLC",
+      subtitle: "React Typescript",
+      description: "A simple business website built for a freelance client of mine.",
+      image: "",
+      link: "https://hacklerwelding.com/"
+   },
     {
         title: "YouTube MP3 Converter",
         subtitle: "React Typescript NextUI",
